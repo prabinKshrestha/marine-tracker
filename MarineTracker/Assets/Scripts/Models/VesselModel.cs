@@ -1,16 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class VesselModel
-{
-    public string Name { get; set; }
-    public string MMSI { get; set; }
-    public float Length { get; set; }
-    public float Width { get; set; }
-    public float Height { get; set; }
-    public float Speed { get; set; }
-    public float BearingDegree { get; set; }
-    public Tuple<float, float> Location { get; set; }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0298c7633660727aea2933930352e8fc0a40784df6b8e6e5f08611ec930e9b67
+size 446
